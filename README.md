@@ -5,3 +5,7 @@
 ## Acknowledgement
 
 The dataset that I used in this Project of Recommendation System on Collaborative Filtering Approach was taken from the open source repository (https://github.com/amitkaps/recommendation/blob/master/Groceries/data/groceries.csv) created by Amit Kapoor. 
+
+## Enhancements
+
+-[I have enhanced the model with data visialization and comparision of recommended items for one particular person]

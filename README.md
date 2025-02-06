@@ -9,3 +9,7 @@ The dataset that I used in this Project of Recommendation System on Collaborativ
 ## Enhancements
 
 -[I have enhanced the model with data visialization and comparision of recommended items for one particular person]
+
+
+# 2. LeNet Model with enhanced explanation of accelerators and transforms using CIFAR dataset
+# PyTorch, Python
